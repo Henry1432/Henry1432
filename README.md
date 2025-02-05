@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Game Programmer currently looking for work, Im activly working on updating my portfolio, and working as a Gameplay Programmer on the game Double Down (comming soon). FunFact about me, I spent a decade of my life in the circus, then ran away to become a Game Developer! feel free to go to my linkedin: https://www.linkedin.com/in/real-henry-bennett/ or just email me at: henry.bennett@mymail.champlain.edu.
+I am a Game Programmer currently looking for work, Im activly working on updating my portfolio, and working as a Gameplay Programmer on the game Double Down (comming soon). FunFact about me, I spent a decade of my life in the circus, then ran away to become a Game Developer! Feel free to connect with my by going to my linkedin: https://www.linkedin.com/in/real-henry-bennett/ or just email me at: henry.bennett@mymail.champlain.edu.
